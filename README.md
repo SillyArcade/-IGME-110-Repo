@@ -10,3 +10,5 @@
 ## -Note-
 This is for an assignment in class.
 If a new game comes out, do **NOT** expect me to update this list.
+
+Also, yes I accidentally did the assignment in the readme, and for some reason I don't feel like changing it.
